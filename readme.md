@@ -2,7 +2,7 @@
 
 My preferred Sass reset, read about it here: https://boag.online/snippets/sass-reset
 
-# Repo Contents
+## Repo Contents
 
 *reset.sass* - My preferred format, pure Sass syntax
 
